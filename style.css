@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+/* CABEÇALHO */
+
+header {
+    font-family: "Roboto Flex", sans-serif;
+    display: flex;
+    width: 100%;
+    background: linear-gradient(180deg, #ffffff, #1c4e1a);
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
+}
