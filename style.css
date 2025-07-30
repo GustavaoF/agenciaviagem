@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* CABEÇALHO */
 
 header {
@@ -23,4 +29,5 @@ h1 {
 
 main {
     background-color: linear-gradient (180deg, white, rgb(209, 209, 209), white);
+    font-family: "Montserrat", sans-serif;
 }
