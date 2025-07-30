@@ -13,7 +13,7 @@ header {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background: linear-gradient(180deg, black, #110c00,#68501e);
+    background: linear-gradient(180deg, rgb(8, 43, 1), #050020,#332300);
     padding: 1rem;
     position: relative;
     align-items: center;
