@@ -13,8 +13,9 @@ header {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background: linear-gradient(180deg, #ffffff, #1c4e1a);
+    background: linear-gradient(180deg, black, #110c00,#68501e);
     padding: 1rem;
     position: relative;
     align-items: center;
+    color: white;
 }
