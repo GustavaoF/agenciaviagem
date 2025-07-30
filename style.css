@@ -11,6 +11,7 @@
 header {
     font-family: "Roboto Flex", sans-serif;
     display: flex;
+    flex-direction: column;
     width: 100%;
     background: linear-gradient(180deg, #ffffff, #1c4e1a);
     padding: 1rem;
