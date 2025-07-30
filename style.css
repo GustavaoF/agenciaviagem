@@ -16,5 +16,5 @@ header {
     background: linear-gradient(180deg, #ffffff, #1c4e1a);
     padding: 1rem;
     position: relative;
-    justify-content: center;
+    align-items: center;
 }
