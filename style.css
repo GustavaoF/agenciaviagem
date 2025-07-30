@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 
 /* CABEÇALHO */
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 header {
     font-family: "Roboto Flex", sans-serif;
@@ -22,4 +17,10 @@ header {
 
 h1 {
     padding-bottom: 8px;
+}
+
+/* CABEÇALHO */
+
+main {
+    background-color: linear-gradient (180deg, white, rgb(209, 209, 209), white);
 }
