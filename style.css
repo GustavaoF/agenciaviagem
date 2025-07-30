@@ -27,7 +27,10 @@ h1 {
 
 /* CABEÇALHO */
 
-main {
+body {
     background: linear-gradient(180deg, white, rgb(224, 224, 224), white);
+}
+
+main {
     font-family: "Montserrat", sans-serif;
 }
