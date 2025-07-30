@@ -28,6 +28,6 @@ h1 {
 /* CABEÇALHO */
 
 main {
-    background-color: linear-gradient (180deg, white, rgb(209, 209, 209), white);
+    background: linear-gradient(180deg, white, rgb(182, 182, 182), white);
     font-family: "Montserrat", sans-serif;
 }
