@@ -36,5 +36,7 @@ main {
 }
 
 h3 {
+    position: relative;
     align-items: center;
+    display: flex;
 }
