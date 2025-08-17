@@ -14,7 +14,7 @@ header {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background: #cfcfcf;
+    background: linear-gradient(180deg, rgb(8, 43, 1), #050020,#332300);
     padding: 1rem;
     position: relative;
     align-items: center;
@@ -28,7 +28,7 @@ h1 {
 /* CORPO */
 
 body {
-    background: linear-gradient(180deg, white, rgb(224, 224, 224), white);
+    background: rgb(224, 224, 224);
 }
 
 main {
