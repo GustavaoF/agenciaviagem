@@ -40,4 +40,5 @@ main {
     align-items: center;
     display: flex;
     justify-content: center;
+    padding: 5px
 }
