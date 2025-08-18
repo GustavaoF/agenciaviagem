@@ -91,7 +91,7 @@ main {
 .grid__item--pre { grid-column: 1 / 2; grid-row: 3 / 4; }
 .grid__item--bbs { grid-column: 2 / 4; grid-row: 3 / 4; }
 .grid__item--clg { grid-column: 4 / 8; grid-row: 3 / 4; }
-.grid__item--cur { grid-column: 1 / 8; grid-row: 4 / 4; }
+.grid__item--cur { grid-column: 1 / 8; grid-row: 4 / 3; }
 
 .rodape {
   background-color: #0080ff;
