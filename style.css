@@ -68,7 +68,7 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--cor-overlay);
+  background-color: #304e34e1;
   color: white;
   padding: 0.5rem;
   font-weight: bold;
