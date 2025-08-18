@@ -89,9 +89,9 @@ main {
 .grid__item--ntl { grid-column: 2 / 5; grid-row: 2 / 3; }
 .grid__item--cab { grid-column: 5 / 8; grid-row: 2 / 3; }
 .grid__item--cur { grid-column: 1 / 8; grid-row: 3 / 3; }
-.grid__item--pre { grid-column: 1 / 3; grid-row: 4 / 4; }
-.grid__item--bbs { grid-column: 3 / 5; grid-row: 4 / 4; }
-.grid__item--clg { grid-column: 5 / 8; grid-row: 4 / 4; }
+.grid__item--pre { grid-column: 1 / 2; grid-row: 4 / 4; }
+.grid__item--bbs { grid-column: 2 / 4; grid-row: 4 / 4; }
+.grid__item--clg { grid-column: 4 / 8; grid-row: 4 / 4; }
 
 .rodape {
   background: linear-gradient(180deg, #000820,#002d33);
