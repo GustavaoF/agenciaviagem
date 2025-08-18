@@ -40,7 +40,7 @@ main {
     align-items: center;
     display: flex;
     justify-content: center;
-    padding-top: 8px
+    padding-top: 16px
 }
 
 .grid__container {
@@ -89,8 +89,8 @@ main {
 .grid__item--ntl { grid-column: 2 / 5; grid-row: 2 / 3; }
 .grid__item--cab { grid-column: 5 / 8; grid-row: 2 / 3; }
 .grid__item--pre { grid-column: 1 / 2; grid-row: 3 / 4; }
-.grid__item--roma { grid-column: 3 / 6; grid-row: 3 / 4; }
-.grid__item--viena { grid-column: 6 / 8; grid-row: 3 / 4; }
+.grid__item--bbs { grid-column: 3 / 6; grid-row: 3 / 4; }
+.grid__item--clg { grid-column: 6 / 8; grid-row: 3 / 4; }
 
 .rodape {
   background-color: var(--cor-rodape);
