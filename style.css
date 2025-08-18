@@ -110,8 +110,8 @@ main {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--marron-claro);
-    box-shadow: 0 2px 5px var(--marinho);
+    background-color: rgb(83, 27, 27);
+    box-shadow: 0 2px 5px #000000;
     min-width: 185px;
     z-index: 1;
     left: 0.9rem;
@@ -120,7 +120,7 @@ main {
 
 .lista-vertical a {
     font-family: "Audiowide", sans-serif;
-    color: var(--branco);
+    color: #ffffff;
     padding: 0.75rem 1rem;
     text-decoration: none;
     font-size: 1.5rem;
@@ -129,8 +129,8 @@ main {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--branco);
-    color: var(--pre);
+    background-color: #ffffff;
+    color: #000000;
 }
 
 #menu-toggle:checked~.lista-vertical {
@@ -138,6 +138,6 @@ main {
 }
 
 #menu-toggle:checked+.botao-disciplinas {
-    color: var(--branco);
-    background-color: var(--preto);
+    color: #ffffff;
+    background-color: #000000;
 }
