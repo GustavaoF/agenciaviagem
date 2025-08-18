@@ -93,8 +93,8 @@ main {
 .grid__item--clg { grid-column: 4 / 8; grid-row: 3 / 4; }
 
 .rodape {
-  background-color: var(--cor-rodape);
-  color: var(--cor-texto-rodape);
+  background-color: #0080ff;
+  color: rgb(136, 81, 44)
   text-align: center;
   padding: 1rem;
   margin-top: 1rem;
