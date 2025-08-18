@@ -94,7 +94,7 @@ main {
 .grid__item--clg { grid-column: 5 / 8; grid-row: 4 / 4; }
 
 .rodape {
-  background-color: linear-gradient(180deg, #000820,#002d33);
+  background: linear-gradient(180deg, #000820,#002d33);
   color: rgb(255, 255, 255);
   text-align: center;
   padding: 0.8rem;
