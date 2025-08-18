@@ -100,3 +100,44 @@ main {
   padding: 0.8rem;
   margin-top: 1rem;
 }
+
+/* BOTÃO */
+
+#menu-toggle {
+    display: none;
+}
+
+.lista-vertical {
+    display: none;
+    position: absolute;
+    background-color: var(--marron-claro);
+    box-shadow: 0 2px 5px var(--marinho);
+    min-width: 185px;
+    z-index: 1;
+    left: 0.9rem;
+    top: 100%;
+}
+
+.lista-vertical a {
+    font-family: "Audiowide", sans-serif;
+    color: var(--branco);
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+    display: block;
+    text-align: center;
+}
+
+.lista-vertical a:hover {
+    background-color: var(--branco);
+    color: var(--pre);
+}
+
+#menu-toggle:checked~.lista-vertical {
+    display: block;
+}
+
+#menu-toggle:checked+.botao-disciplinas {
+    color: var(--branco);
+    background-color: var(--preto);
+}
